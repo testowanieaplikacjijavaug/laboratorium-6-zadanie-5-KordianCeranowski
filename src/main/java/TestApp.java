@@ -1,6 +1,6 @@
 import java.awt.EventQueue;
 
-class Test {
+class TestApp {
     public static void main(String[] args) {
         EventQueue.invokeLater(new Runnable() {
             @Override

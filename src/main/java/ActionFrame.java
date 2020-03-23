@@ -12,4 +12,8 @@ public class ActionFrame extends JFrame {
         pack();
         setVisible(true);
     }
+
+    public static void start(){
+        new ActionFrame();
+    }
 }
